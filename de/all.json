@@ -51,6 +51,7 @@
       "CHANGE_DOCUMENT_ICON": "Dokumentsymbol ändern",
       "CHANGE_DOCUMENT_STATUS": "Dokumentstatus ändern",
       "CHANGE_FOLDER_ICON": "Ordnersymbol ändern",
+      "CUSTOMIZE_SPACED_REPETITION": "Personalisiere den Wiederholungsablauf",
       "DELETE": "Löschen",
       "EDIT_MODE": {
         "READ": "Nur-Lese-Modus",
@@ -659,6 +660,7 @@
       },
       "PRIVACY_NOTE": "Datenschutz: Lesen Sie unsere<policyLink>Datenschutzrichtlinie</policyLink> , oder ändern Sie Ihre Einstellungen in unserem<hubLink> Datenschutz-Hub</hubLink> .",
       "SORT_SIDEBAR": {
+        "KEYWORDS": "Sortiere die Seitenleiste von A bis Z",
         "TITLE": "Seitenleiste sortieren"
       },
       "COMMUNITY_TAB": {
